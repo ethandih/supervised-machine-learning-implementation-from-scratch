@@ -80,11 +80,15 @@ The main emphasis is on implementing models manually (without high-level ML libr
 
 ## How to Run
 
+This project was developed as a Jupyter Notebook submission (as required by the course).
+
+1. Install required packages:
+
 ```bash
 pip install numpy pandas matplotlib seaborn scikit-learn catboost
 ```
 
-Open the notebook:
+2. Open the notebook:
 
 `supervised_learning_notebook.ipynb`
 
@@ -114,6 +118,6 @@ Although production systems rely on established ML libraries, implementing model
 ## Disclaimer
 
 This project originated from coursework in an introductory machine learning course.  
-The repository has been refactored for clarity and portfolio presentation.
+The repository has been refactored for clarity.
 
 
