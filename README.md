@@ -23,11 +23,19 @@ The main emphasis is on implementing models manually (without high-level ML libr
 
 ## Repository Structure
 
-├── `supervised_learning_main.ipynb`
 
-├── `logistic_regression_manual_implementation.py`
-
-├── `linear_regression_manual_implementation.py`
+```text
+├── supervised_learning_main.ipynb
+├── linear_regression_manual_implementation.py
+├── logistic_regression_manual_implementation.py
+├── mission1.csv
+├── mission2.csv
+├── mission3_train.csv
+├── mission3_test.csv
+├── final_mission_train.csv
+├── final_mission_test.csv
+├── README.md
+```
 
 
 ## Implemented Tasks
