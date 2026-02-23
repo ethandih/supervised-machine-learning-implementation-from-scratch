@@ -28,13 +28,15 @@ The main emphasis is on implementing models manually (without high-level ML libr
 ├── supervised_learning_main.ipynb
 ├── linear_regression_manual_implementation.py
 ├── logistic_regression_manual_implementation.py
-├── mission1.csv
-├── mission2.csv
-├── mission3_train.csv
-├── mission3_test.csv
-├── final_mission_train.csv
-├── final_mission_test.csv
-├── README.md
+├── data/
+│   ├── mission1.csv
+│   ├── mission2.csv
+│   ├── mission3_train.csv
+│   ├── mission3_test.csv
+│   ├── final_mission_train.csv
+│   └── final_mission_test.csv
+└── README.md
+
 ```
 
 
