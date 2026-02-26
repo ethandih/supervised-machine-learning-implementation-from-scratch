@@ -119,7 +119,7 @@ Although production systems rely on established ML libraries, implementing model
 
 ## Disclaimer
 
-This project originated from coursework in an introductory machine learning course.  
+This project originated from coursework in an introductory machine learning course at NTNU (Norwegian University of Science and Technology). 
 The repository has been refactored for clarity.
 
 
